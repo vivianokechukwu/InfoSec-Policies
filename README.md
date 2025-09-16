@@ -1,7 +1,7 @@
 <h1>Development & Implementation of ISO 27001 aligned InfoSec Policies</h1>
 
 <h2>Overview</h2>
-As the Information Security Officer of a newly established financial institution, I led the development of a comprehensive set of ISO/IEC 27001 aligned information security policies, establishing the foundation for the organization’s security posture and regulatory compliance.
+I led the development of a comprehensive set of ISO/IEC 27001 aligned information security policies, establishing the foundation for the organization’s security posture and regulatory compliance.
 
 <h2>Key Actions</h2>
 
@@ -17,16 +17,17 @@ As the Information Security Officer of a newly established financial institution
 
 <h2>Deliverables</h2>
 
-- Full set of ISO 27001 compliant information security policies.
+- Delivered a full set of ISO 27001 compliant information security policies.
 
-- ISMS alignment matrix mapping policies to ISO controls.
+- Produced an ISMS alignment matrix mapping policies to ISO controls.
 
-- Stakeholder approved policy documentation.
+- Secured stakeholder approved policy documentation.
 
-- Awareness and training rollout program.
+- Rolled out awareness and training program.
 
 <h2>Impact </h2>
-This initiative established the institution’s first formalized information security framework, embedding ISO 27001 standards into daily operations, strengthening regulatory compliance, and building a culture of security awareness from the ground up.
+
+The initiative established the institution’s first formal information security framework, embedded ISO 27001 standards into daily operations, strengthened regulatory compliance, and built a culture of security awareness from the ground up.
 
 
 
